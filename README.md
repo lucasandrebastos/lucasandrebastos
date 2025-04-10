@@ -1,11 +1,12 @@
-### Olá, meu nome é Lucas!
+## Olá, seja bem-vindo!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Lucas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
 
 
 <p align="left"> 
-  Desenvolvedor Fullstack com experiência em aplicações escaláveis e arquitetura de microsserviços, atuando no mercado financeiro e serviços pet. Especialista em Java (Spring Boot), React (TypeScript) e integração de APIs REST e GraphQL, com forte conhecimento em Programação Orientada a Objetos (POO), SOLID, Clean Code e Design Patterns. Experiência na implementação de CI/CD, mensageria (Kafka, RabbitMQ) e conteinerização com Docker. Conhecimento aprofundado em bancos de dados relacionais (MySQL, PostgreSQL) e não relacionais (MongoDB).
+  Sou desenvolvedor fullstack com experiência em aplicações escaláveis e arquitetura de microsserviços, atuando no mercado financeiro e serviços pet. Especialista em Java (Spring Boot), React (TypeScript) e integração de APIs REST e GraphQL, com forte conhecimento em Programação Orientada a Objetos (POO), SOLID, Clean Code e Design Patterns. Experiência na implementação de CI/CD, mensageria (Kafka, RabbitMQ) e conteinerização com Docker. Conhecimento aprofundado em bancos de dados relacionais (MySQL, PostgreSQL) e não relacionais (MongoDB).
 </p>
+
 
 <p align="left">
   🦄 Linguagens: **Typescript, Java, Python, SQL.**
@@ -13,6 +14,11 @@
 
 <p align="left">
   💼 Ferramentas: **Spring Boot, React.js, Next.js, FastAPI, Kafka, RabbitMQ**
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucasandrebastos/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasandrebastos/" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -60,9 +66,5 @@ Linguagens & Tecnologias: `React`, `Typescript`, `Python`, `FastAPI`, `Styled Co
 
 ---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucasandrebastos/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasandrebastos/" alt="LinkedIn"/>
-  </a>
-</p>
+
 

@@ -44,13 +44,14 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Full-stack Developer** \
 [**Casa da Lauau**](https://www.linkedin.com/company/casadalauau/) • Full-time \
-Linguagens & Tecnologias: `Java`, `Spring Boot`, `React.js`, `TypeScript`, `Redux`,\
+Linguagens & Tecnologias: `Java`, `Spring Boot`, `React.js`, `TypeScript`, `Redux`,`Tailwind`,\
 
+<br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Ouribank" src="https://media.licdn.com/dms/image/v2/D4D0BAQF5VhiPO7mClQ/company-logo_200_200/company-logo_200_200/0/1701908911284/banco_ourinvest_logo?e=1749686400&v=beta&t=mFH_DNEmmfetc5rwY5HK__9n_IN8QxOfczY8B9em3gY"/>](https://rocketseat.com.br/)
 
-**Front-end Developer (Jr)** \
+**Front-end Developer** \
 [**Ouribank**](https://www.ouribank.com/) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `Typescript`, `React`, `Next.js`, `GraphQL`, `Redux`, `Tailwind`,`Styled Components`,`Web Sockets`\
 
@@ -60,9 +61,7 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `React`, `Next.js`, `Graph
 
 **Frontend Engineer intern** \
 [**Qflash**](https://www.qflash.com.br/) • Intern \
-Linguagens & Tecnologias: `React`, `Typescript`, `Python`, `FastAPI`, `Styled Components` \
-
-
+Linguagens & Tecnologias: `React`, `Next.js`,`Typescript`, `Python`, `FastAPI`, `Styled Components` \
 
 ---
 

@@ -15,11 +15,10 @@
 <p align="left">
   💼 Ferramentas: **Spring Boot, React.js, Next.js, FastAPI, Kafka, RabbitMQ**
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucasandrebastos/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasandrebastos/" alt="LinkedIn"/>
-  </a>
-</p>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-F2F0E3?style=flat-square&logo=Linkedin&logoColor=212121&link=https://www.linkedin.com/in/lucasandrebastos/)](https://www.linkedin.com/in/lucasandrebastos/) 
+[![Gmail Badge](https://img.shields.io/badge/-andrebastoslucas@gmail.com-F2F0E3?style=flat-square&logo=Gmail&logoColor=212121&link=mailto:andrebastoslucas@gmail.com)](mailto:andrebastoslucas@gmail.com)
 
 ---
 

@@ -48,7 +48,7 @@ Linguagens & Tecnologias: `Java`, `Spring Boot`, `React.js`, `TypeScript`, `Redu
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Ouribank" src="https://media.licdn.com/dms/image/v2/D4D0BAQF5VhiPO7mClQ/company-logo_200_200/company-logo_200_200/0/1701908911284/banco_ourinvest_logo?e=1749686400&v=beta&t=mFH_DNEmmfetc5rwY5HK__9n_IN8QxOfczY8B9em3gY"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Ouribank" src="https://media.licdn.com/dms/image/v2/D4D0BAQF5VhiPO7mClQ/company-logo_200_200/company-logo_200_200/0/1701908911284/banco_ourinvest_logo?e=1749686400&v=beta&t=mFH_DNEmmfetc5rwY5HK__9n_IN8QxOfczY8B9em3gY"/>](https://www.ouribank.com/)
 
 **Front-end Developer** \
 [**Ouribank**](https://www.ouribank.com/) • Full-time \
